@@ -1,9 +1,10 @@
 import '../Styles/Header.styles.css'; 
+import logo from '../img/Ned.png';
 const Header = () => {
     return(
         <div className = 'Header'>
             <div className='Box'>
-                <img className='Ned' src='../src/img/Ned.png' alt='Ned-Logo'/>
+                <img src={logo} alt='Ned-Logo' className='Ned-logo'/>
             </div>
         </div>
     )

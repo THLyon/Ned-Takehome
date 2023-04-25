@@ -1,0 +1,185 @@
+.group-2380{
+    position: absolute;
+    width: 700px;
+    height: 106px;
+    left: 125px;
+    top: 400px;
+}
+
+.group-2381{
+    position: absolute;
+    width: 700px;
+    height: 106px;
+    left: 0px;
+    top: 0px;
+}
+
+.group-2405{
+    position: absolute;
+    width: 507.5px;
+    height: 38px;
+    left: 100px;
+    top: 25px;
+}
+
+.group-2389{
+    position: absolute;
+    left: 130.21%;
+    right: 93.8%;
+    top: 39.72%;
+    bottom: 57.87%;
+}
+
+.group-1758{
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    left: 719px;
+    top: 635.5px;
+}
+
+.obj{
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    left: 719px;
+    top: 635.5px;
+}
+
+.color{
+    position: absolute;
+    width: 22.8px;
+    height: 22.8px;
+    left: 717.1px;
+    top: 633.6px;
+    
+    background: #979797;
+}
+
+.icon{
+   
+position: absolute;
+left: 37.45%;
+right: 61.56%;
+top: 40.32%;
+bottom: 58.47%;
+
+/* 03. On Primary / High Emphasis */
+
+background: #FFFFFF; 
+}
+
+.state-a{
+    position: absolute;
+    visibility: hidden;
+    width: 38px;
+    height: 38px;
+    left: 709.5px;
+    top: 626px;
+    
+    background: rgba(9, 98, 234, 0.1);
+}
+
+.monthly{
+
+    position: absolute;
+    left: 32.66%;
+    right: 63.8%;
+    top: 30.16%;
+    bottom: 58.31%;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #0962EA;
+}
+
+.group-1834{
+    position: absolute;
+    width: 100.5px;
+    height: 24px;
+    left: 419px;
+    top: 0px;
+}
+
+
+.weekly{
+    position: absolute;
+    width: 63px;
+    height: 24px;
+    left: 40px;
+    top: 15px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+
+.Rev-Shared{
+    position: absolute;
+    width: 227px;
+    height: 24px;
+    left: -5px;
+    top: 10px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+
+.vector-23{
+    position: absolute;
+    width: 0px;
+    height: 36px;
+    left: 311.51px;
+    top: 630px;
+}
+
+.rect-97{
+    position: absolute;
+    width: 700px;
+    height: 64px;
+    left: 287px;
+    top: 616px;
+    
+    border-radius: 10px 10px 0px 0px;
+}
+
+.desired-repay{
+    position: absolute;
+width: 217px;
+height: 24px;
+left: 313px;
+top: 698px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+letter-spacing: 0.15px;
+
+color: #000000;
+}

@@ -1,0 +1,164 @@
+.group-2544{
+    position: absolute;
+    width: 702.58px;
+    height: 79px;
+    left: 111px;
+    top: 224px;
+}
+
+.group-2451{
+    position: absolute;
+    width: 702.58px;
+    height: 79px;
+    left: 0px;
+    top: 74px;
+}
+
+.group-2450{
+    position: absolute;
+    width: 94.09px;
+    height: 20px;
+    left: 43.58px;
+    top: 0px;
+}
+
+.knob{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 91px;
+    top: -3px;
+    
+    background: #0E7CF4;
+    border-radius: 40px;
+}
+
+.highlight{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 5px;
+    gap: 0px;
+    
+    position: absolute;
+    width: 84.79px;
+    height: 4px;
+    left: 0px;
+    top: 0px;
+    
+    background: #0E7CF4;
+    border-radius: 3px;
+    opacity: 0.24;
+}
+
+.group-2449{
+    position: absolute;
+    width: 474.99px;
+    height: 3.63px;
+    left: 152.49px;
+    top: 0.19px;
+}
+
+.track{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    gap: 0px;
+    
+    position: absolute;
+    width: 474.99px;
+    height: 3.63px;
+    left: 0px;
+    top: 0px;
+    
+
+    background: #C4C4C4;
+    border-radius: 3px;
+    opacity: 0.24;
+}
+
+.min{
+    position: absolute;
+    width: 73px;
+    height: 24px;
+    left: 15px; 
+    top: -35px;
+    /* left: calc(50% - 73px/2 - 612.5px);
+    top: calc(50% - 24px/2 - 292px); */
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+
+.max{
+    position: absolute;
+    width: 94px;
+    height: 24px;
+    left: 585px; 
+    top: -32px;
+    /* left: calc(50% - 94px/2 - 104px);
+    top: calc(50% - 24px/2 - 292px); */
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+
+.rectandle-101A{
+    position: absolute;
+    width: 95px;
+    height: 64px;
+    left: 918.58px;
+    top: 499px;
+    
+    background: rgba(196, 196, 196, 0.15);
+    border-radius: 10px 10px 0px 0px;
+}
+
+.asking-loan{
+    position: absolute;
+    width: 78px;
+    height: 30px;
+    left: 924px;
+    top: 516px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+    /* identical to box height, or 167% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #0E7CF4;
+}
+
+.states{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 125px;
+    top: 61px;
+    
+    background: #0E7CF4;
+    opacity: 0.24;
+    border-radius: 40px; 
+}

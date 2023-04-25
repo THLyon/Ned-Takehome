@@ -1,8 +1,8 @@
 import {useEffect, useState} from 'react';
 import Header from './components/Header'; 
-// import LeftPanel from './components/LeftPanel/LeftPanel'; 
-// import RightPanel from './components/RightPanel/RightPanel'; 
-// import DesktopButtons from './components/DesktopButtons';
+import LeftPanel from './components/LeftPanel'; 
+import RightPanel from './components/RightPanel'; 
+import DesktopButtons from './components/DesktopButtons';
 
 import './App.css';
 
@@ -25,9 +25,9 @@ const [loanData, setLoanData] = useState({});
   return (
     <div className="App">
       <Header />
-      {/* <LeftPanel />
+      <LeftPanel />
       <RightPanel/>
-      <DesktopButtons/> */}
+      <DesktopButtons/>
     </div>
   );
 }

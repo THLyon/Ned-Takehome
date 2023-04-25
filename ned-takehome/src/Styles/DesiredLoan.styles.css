@@ -1,0 +1,24 @@
+.group-2543{
+    position: absolute;
+    width: 302px;
+    height: 216px;
+    left: 614px;
+    top: 445px;
+}
+
+.desired{
+    position: absolute;
+    width: 302px;
+    height: 26px;
+    left: calc(50% - 302px/2 - 497px);
+    top: calc(50% - 26px/2 - 330px);
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.02em;
+
+    color: #000000;
+}

@@ -1,0 +1,271 @@
+.group-2561{
+    position: absolute;
+width: 684px;
+height: 190px;
+left: 312px;
+top: 767px;
+}
+
+.group-2489{
+    position: absolute;
+    width: 648px;
+    height: 190px;
+    left: 312px;
+    top: 767px;
+}
+
+.rectangle-101{
+    position: absolute;
+    width: 123px;
+    height: 64px;
+    left: 829px;
+    top: 821px;
+    
+    background: rgba(196, 196, 196, 0.15);
+    border-radius: 10px 10px 0px 0px;
+}
+
+.rectangle-102{
+    position: absolute;
+width: 321px;
+height: 64px;
+left: 487px;
+top: 821px;
+
+background: rgba(196, 196, 196, 0.15);
+border-radius: 10px 10px 0px 0px;
+}
+
+.navigation{
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 463px;
+    top: 875px;
+
+transform: rotate(-180deg);
+}
+
+.rectangle-100{
+    position: absolute;
+width: 156px;
+height: 64px;
+left: 318px;
+top: 822px;
+
+background: rgba(196, 196, 196, 0.15);
+border-radius: 10px 10px 0px 0px;
+}
+
+.vector-25{
+    position: absolute;
+visibility: hidden;
+width: 700px;
+height: 0px;
+left: 318px;
+top: 886px;
+
+border: 1px solid #C4C4C4;
+}
+
+.title{
+    position: absolute;
+    width: 258px;
+    height: 25px;
+    left: 312px;
+    top: 767px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    letter-spacing: -0.02em;
+    
+    color: #000000;
+}
+
+.example-1{
+    position: absolute;
+    width: 52px;
+    height: 24px;
+    left: 326px;
+    top: 908px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+
+.example-2{
+    position: absolute;
+    width: 322px;
+    height: 48px;
+    left: 495px;
+    top: 909px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    /* or 133% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+
+.example-3{
+    position: absolute;
+    width: 70px;
+    height: 24px;
+    left: 838px;
+    top: 909px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+
+.frame-1{
+    position: absolute;
+    left: 50.21%;
+    right: 48.12%;
+    top: 53.11%;
+    bottom: 44.86%;
+}
+
+.group-1{
+    position: absolute;
+    left: 50.42%;
+    right: 48.3%;
+    top: 57.74%;
+    bottom: 40.99%;
+}
+
+.add{
+    position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 6.25%;
+bottom: 6.25%;
+}
+
+.group-2{
+    position: absolute;
+    left: 6.25%;
+    right: 6.25%;
+    top: 6.25%;
+    bottom: 6.25%;
+}
+
+.group-3{
+    position: absolute;
+    left: 23.75%;
+    right: 23.75%;
+    top: 23.75%;
+    bottom: 23.75%;
+}
+
+.vector-1{
+    position: absolute;
+    left: 23.75%;
+    right: 23.75%;
+    top: 50%;
+    bottom: 50%;
+    
+    border: 1px solid #0962EA;
+}
+
+.vector-2{
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    top: 23.75%;
+    bottom: 23.75%;
+    
+    border: 1px solid #0962EA;
+}
+
+.vector-a{
+    position: absolute;
+    left: 6.25%;
+    right: 6.25%;
+    top: 6.25%;
+    bottom: 6.25%;
+    
+    border: 1px solid #0962EA;
+}
+
+.frame-2{
+    position: absolute;
+    left: 50.42%;
+    right: 48.3%;
+    top: 57.74%;
+    bottom: 40.99%;
+}
+
+.group-4{
+    position: absolute;
+    left: 13.16%;
+    right: 13.11%;
+    top: 1.43%;
+    bottom: 1.56%;
+}
+
+.vector-3{
+    position: absolute;
+    left: 59.72%;
+    right: 32.49%;
+    top: 24.59%;
+    bottom: 13.08%;
+    
+    background: #0962EA;
+}
+
+.vector-4{
+    position: absolute;
+    left: 32.56%;
+    right: 59.59%;
+    top: 24.71%;
+    bottom: 13.08%;
+    
+    background: #0962EA;
+}
+
+.vector-5{
+    position: absolute;
+    left: 48.08%;
+    right: 48.04%;
+    top: 24.71%;
+    bottom: 13.2%;
+    
+    background: #0962EA;
+}
+
+.vector-b{
+    position: absolute;
+    left: 13.16%;
+    right: 13.11%;
+    top: 1.43%;
+    bottom: 1.56%;
+    
+    background: #0962EA;
+}

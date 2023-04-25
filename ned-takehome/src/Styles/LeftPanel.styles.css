@@ -1,0 +1,65 @@
+.group-1814{
+    position: absolute;
+    width: 918px;
+    height: 883px;
+    left: 182px;
+    top: 232px;
+}
+
+.group-1752{
+    position: absolute;
+    width: 918px;
+    height: 883px;
+    left: 182px;
+    top: 232px;
+}
+
+.Finance-Options{
+   
+position: absolute;
+width: 509px;
+height: 41.18px;
+left: 117px;
+top: 5.15px;
+
+/* D_Form_Title */
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #000000; 
+}
+
+.N-Sheet{
+    position: absolute;
+width: 918px;
+height: 883px;
+left: 182px;
+top: 232px;
+}
+
+.group-1524{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+}
+
+.rectangle-22A{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+    box-shadow: 0px 3px 20px 6px rgba(0, 0, 0, 0.02);
+    border-radius: 20px;    
+}
