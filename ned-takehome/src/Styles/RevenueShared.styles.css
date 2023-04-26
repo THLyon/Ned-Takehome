@@ -3,7 +3,7 @@
     width: 700px;
     height: 106px;
     left: 125px;
-    top: 400px;
+    top: 100px;
 }
 
 .group-2381{
@@ -11,20 +11,20 @@
     width: 700px;
     height: 106px;
     left: 0px;
-    top: 0px;
+    top: 220px;
 }
 
 .group-2405{
     position: absolute;
     width: 507.5px;
     height: 38px;
-    left: 100px;
-    top: 25px;
+    left: 0px;
+    top: 80px;
 }
 
 .group-2389{
     position: absolute;
-    left: 130.21%;
+    left: 90.21%;
     right: 93.8%;
     top: 39.72%;
     bottom: 57.87%;
@@ -34,8 +34,8 @@
     position: absolute;
     width: 19px;
     height: 19px;
-    left: 719px;
-    top: 635.5px;
+    left: 119px;
+    top: 135.5px;
 }
 
 .obj{
@@ -113,7 +113,7 @@ background: #FFFFFF;
     position: absolute;
     width: 63px;
     height: 24px;
-    left: 40px;
+    left: -100px;
     top: 15px;
     
     font-family: 'Nunito';
@@ -133,7 +133,7 @@ background: #FFFFFF;
     width: 227px;
     height: 24px;
     left: -5px;
-    top: 10px;
+    top: 20px;
     
     font-family: 'Nunito';
     font-style: normal;
@@ -151,8 +151,8 @@ background: #FFFFFF;
     position: absolute;
     width: 0px;
     height: 36px;
-    left: 311.51px;
-    top: 630px;
+    left: 20px;
+    top: 130px;
 }
 
 .rect-97{
@@ -169,8 +169,8 @@ background: #FFFFFF;
     position: absolute;
 width: 217px;
 height: 24px;
-left: 313px;
-top: 698px;
+left: -5px;
+top: 180px;
 
 font-family: 'Nunito';
 font-style: normal;

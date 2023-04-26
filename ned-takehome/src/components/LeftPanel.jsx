@@ -5,6 +5,7 @@ import DesiredLoanSlider from './DesiredLoanSlider';
 import RevenueFrequency from './RevenueFrequency';
 import DesiredDelay from './DesiredDelay';
 import RevenueShare from './RevenueShare';
+// import FundUse from './FundUse';
 
 import '../Styles/LeftPanel.styles.css';
 
@@ -20,6 +21,7 @@ const LeftPanel = () => {
                     <RevenueFrequency/>
                     <DesiredDelay/>
                     <RevenueShare/>
+                    {/* <FundUse/> */}
                 </div>
         </div>
     )
